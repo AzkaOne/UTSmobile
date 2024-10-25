@@ -10,7 +10,7 @@ class Myhome extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Daftar',
+          'Welcome',
           style: TextStyle(color: Colors.white),
         ),
         centerTitle: true,
